@@ -1,3 +1,8 @@
+# esp-idf-privilege-separation
+Building projects based on [ESP Privilege Separation](https://github.com/espressif/esp-privilege-separation) requires patches to [ESP-IDF](https://github.com/espressif/esp-idf). This repository is a fork of ESP-IDF v4.4.3 with those patches pre-applied.
+
+The original text of the ESP-IDF README file is preserved below:
+
 # Espressif IoT Development Framework
 
 * [中文版](./README_CN.md)
